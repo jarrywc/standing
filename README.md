@@ -4,6 +4,7 @@ This project is a redesign of a standing desk control board that extends from a 
 
 Dependancies:
 
-- jm_LiquidCrystal_I2C{https://github.com/jmparatte/jm_LiquidCrystal_I2C}
--
+- Adafruit_PCF8575 [https://github.com/adafruit/Adafruit_PCF8574]
+- jm_LiquidCrystal_I2C [https://github.com/jmparatte/jm_LiquidCrystal_I2C]
+- EspMQTTClient [https://github.com/plapointe6/EspMQTTClient]
 -
