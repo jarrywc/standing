@@ -4,6 +4,6 @@ This project is a redesign of a standing desk control board that extends from a 
 
 Dependancies:
 
--
+- jm_LiquidCrystal_I2C{https://github.com/jmparatte/jm_LiquidCrystal_I2C}
 -
 -
